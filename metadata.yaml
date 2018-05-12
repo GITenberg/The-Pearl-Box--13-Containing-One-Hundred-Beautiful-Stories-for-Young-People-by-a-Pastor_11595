@@ -1,5 +1,8 @@
 _repo: The-Pearl-Box--13-Containing-One-Hundred-Beautiful-Stories-for-Young-People-by-a-Pastor_11595
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -11,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
 description: See also PG#11237, a version slightly different in the stories presented
   and in the illustrations.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11595#The-Pearl-Box--13-Containing-One-Hundred-Beautiful-Stories-for-Young-People-by-a-Pastor
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
